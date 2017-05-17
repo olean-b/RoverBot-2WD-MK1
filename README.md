@@ -1,20 +1,27 @@
 # RoverBot-2WD-MK1
 
-Dette stedet inneholder et pågående prosjektet som er rettet mot barn og tenkt arrangert i regi av KodeKlubben Moss i samarbeid med Verket FabLab.
+Dette er et pågående prosjekt som undersøker mulighetene for å lage et mini-kurs rund det å bygge et selvgående kjøretøy. Kurset er tenkt arrangert av KodeKlubben Moss i samarbeid med Verket FabLab.
 
-Prosjektet har følgende mål:
-*	Tilgjengelig for alle 
+Det er viktig at prosjektet gir barn glede av å bygge, og at man får en forståelse av hvorfor programmering er nyttig.
+
+__Prosjektet har følgende mål:__
+*	Tilgjengelig for alle
     *	Lav pris
     *	Både nybegynnere og de med noe erfaring finner noe å strekke seg etter
 *	Benytte verktøy/ tjenester fra FabLab
 
-## Bilder av prototype som viser 3 tenkte steg for kurset
+## Noen tenkte "trinn" i kurset
+Nedenfor følger tre tenkte trinn i kurset, men her er det muligheter for å legge inn flere. F.eks. dekorering. Det er også mulig å lage forskjellige grener. F.eks. kan man lage en gren hvor man tar utgangspunkt i micro:bit.
 
-### Nivå 1 - Av/På - Kjører kun fremover
+### Nivå 1 - Av/På
+Dette er grunnleggende og minimum av hva man bør gjennomføre iløpet av kurset
 ![](images/Nivå1.jpg)
 
-### Nivå 2 - Styrtes via programkode
+### Nivå 2 - Kontrollert kjøring
+Her introduseres mikrokontroller og programmering. Målsetning er å gjøre dette i "Scratch"/ visuelt verktøy.
 ![](images/Nivå2.jpg)
 
-### Nivå 3 - Unngår hinder ved hjelp av programkode og sensor
+### Nivå 3 - Unngår hinder
+Kjøretøyet utvides med sensor, og programmeres for å håndtere hinder
 ![](images/Nivå3.jpg)
+
