@@ -30,13 +30,16 @@ Kjøretøyet utvides med sensor, og programmeres for å håndtere hinder
 
 Komponenter                       | Pris (NOK) | Beskrivelse
 :---------------------------------|------------:|:------------------------
+__Nivå 1__
 Chassis (Akryl  300 x 200 x 3)    |   ??        |
 Gir-Motor m. hjul                 |  40,-       |
 Batteriholder - 4xAA              |   7,-       |
 Bryter                            |   2,-       |
 Skruer                            |   5,-       |
 Leddhjul                          |  20,-       | 
--                                 |             |
+__Nivå 2__                        
 Arduino Nano                      |  20,-       |
 Montering blokk                   |  15,-       |
 H-Bridge Motor driver             |   6,-       | 1.5A Mini Dual Channel DC Motor Driver Module L298N PWM 
+__Nivå 3__
+Avstandsensor                     |  10,-       | + Festebrakett
