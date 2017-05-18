@@ -25,3 +25,18 @@ Her introduseres mikrokontroller og programmering. Målsetning er å gjøre dett
 Kjøretøyet utvides med sensor, og programmeres for å håndtere hinder
 ![](images/Nivå3.jpg)
 
+
+## Foreløpig materialkostnad
+
+Komponenter                       | Pris (NOK) | Beskrivelse
+:---------------------------------|------------:|:------------------------
+Chassis (Akryl  300 x 200 x 3)    |   ??        |
+Gir-Motor m. hjul                 |  40,-       |
+Batteriholder - 4xAA              |   7,-       |
+Bryter                            |   2,-       |
+Skruer                            |   5,-       |
+Leddhjul                          |  20,-       | 
+-                                 |             |
+Arduino Nano                      |  20,-       |
+Montering blokk                   |  15,-       |
+H-Bridge Motor driver             |   6,-       | 1.5A Mini Dual Channel DC Motor Driver Module L298N PWM 
