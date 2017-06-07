@@ -25,7 +25,7 @@ Her introduseres mikrokontroller og programmering. Målsetning er å gjøre dett
 
 mBlock utvidelse for MotorDriverL298N er oversatt til Norsk.
 
-![](images/mBlockScreen1.jpg =250x)
+![](images/mBlockScreen1.jpg)
 
 ### Nivå 3 - Unngår hinder
 Kjøretøyet utvides med sensor, og programmeres for å håndtere hinder
