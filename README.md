@@ -19,7 +19,13 @@ Dette er grunnleggende og minimum av hva man bør gjennomføre iløpet av kurset
 
 ### Nivå 2 - Kontrollert kjøring
 Her introduseres mikrokontroller og programmering. Målsetning er å gjøre dette i "Scratch"/ visuelt verktøy.
+
 ![](images/Nivå2.jpg)
+
+
+mBlock utvidelse for MotorDriverL298N er oversatt til Norsk.
+
+![](images/mBlockScreen1.jpg =250x)
 
 ### Nivå 3 - Unngår hinder
 Kjøretøyet utvides med sensor, og programmeres for å håndtere hinder
