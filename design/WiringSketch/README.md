@@ -1,4 +1,4 @@
-Koblingsoversikt
+# Koblingsoversikt
 
 Fra komponent            | Til hovedkort | Beskrivelse
 :------------------------|------------:|:------------------------
@@ -19,3 +19,12 @@ VCC                      |  5V         |
 __Batteri__                        
 Sort                      |  GND       | Bruk en av de to GND kontaktene
 Rød                       |  VIN       | 
+
+
+### Fotografi
+
+![](KoblingerFoto.jpg)
+
+### Koblingskjema
+
+![](KoblingerSkjema.png)
