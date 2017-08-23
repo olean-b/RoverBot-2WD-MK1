@@ -1,0 +1,94 @@
+{
+	"extensionName": "Robbie Robot (L9110S)",
+	"description": "An extension for driving robots using the L9110S motor driver. Currently supports one motor driver.",
+	"version": "1.0",
+	"author": "Sam Griffen",
+	"homepage": "http://www.google.com",
+	"sort":0,
+	"javascriptURL":"js/main.js",
+  	"firmware":"1.0",
+  	"extensionPort":0,
+	"blockSpecs": [
+		[
+      "w",
+      "attach drivetrain with motor ports as: Left A: %n, Left B: %n, Right A: %n, Right B: %n",
+      "attach",
+      "5",
+      "6",
+      "9",
+      "10",
+      {
+        "inc" : "#include \"Robot.h\"\n",
+        "def" : "Drive robot({0},{1},{2},{3});\n",
+        "setup" : "robot.begin();\n",
+        "work" : "",
+        "loop":""
+      }
+    ],
+    [
+      "w",
+      "Move Forward (Power: %n )",
+      "forward",
+      "255",
+      {
+        "inc" : "",
+        "def" : "",
+        "setup" : "",
+        "work" : "robot.forward({0});\n",
+        "loop" : ""
+      }
+    ],
+    [
+      "w",
+      "Move Backward (Power: %n )",
+      "backward",
+      "255",
+      {
+        "inc" : "",
+        "def" : "",
+        "setup" : "",
+        "work" : "robot.backward({0});\n",
+        "loop" : ""
+      }
+    ],
+    [
+      "w",
+      "Turn Left (Power: %n )",
+      "left",
+      "255",
+      {
+        "inc" : "",
+        "def" : "",
+        "setup" : "",
+        "work" : "robot.turnLeft({0});\n",
+        "loop" : ""
+      }
+    ],
+    [
+      "w",
+      "Turn Right (Power: %n )",
+      "right",
+      "255",
+      {
+        "inc" : "",
+        "def" : "",
+        "setup" : "",
+        "work" : "robot.turnRight({0});\n",
+        "loop" : ""
+      }
+    ]
+	],
+	"menus": {
+	},
+	"values":{
+	},
+	"translators":{
+           "nb_NO":{ // Norwegian translation
+            "attach drivetrain with motor ports as: Left A: %n, Left B: %n, Right A: %n, Right B: %n":"Sett pinner for motordrev: Venstre A: %n, Venstre B: %n, Høyre A: %n, Høyre B: %n",
+            "Move Forward (Power: %n )" :"kjør fremover (hastighet: %n )",
+            "Move Backward (Power: %n )":"kjør bakover (hastighet: %n )",
+            "Turn Left (Power: %n )" :"snu venstre (hastighet: %n )",
+            "Turn Right (Power: %n )":"snu høyre (hastighet: %n )"
+        }
+	}
+}
