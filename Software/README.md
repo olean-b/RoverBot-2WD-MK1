@@ -37,3 +37,4 @@ På enheten ser du nå en LED som vekselsvis er tent/slukket i nøyaktig 1 sekun
 * Krever tilkoblet driver og motorer ++
 * Installere utvidelse
 * Beskrive pinner
+## [Klikk her og velg Download](/Software/Robbie_Robot/Robot/RoverBotMotorExtension.zip)
