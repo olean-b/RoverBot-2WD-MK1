@@ -15,3 +15,6 @@ __Vent med å sette hjulene på motor drevet. Da blir det enklere å feste motor
 ## Steg 3: Feste koblingsblokk for Arduino Nano
 
 ![](images/Bygg4.jpg)
+
+
+## [Klikk her](/design/WiringSketch/README.md) for å gå til neste steg hvor vi kobler elektronikken.
