@@ -21,10 +21,8 @@ Sort                      |  GND       | Bruk en av de to GND kontaktene
 Rød                       |  VIN       | 
 
 
-### Fotografi
-
+### Bilde nedenfor viser hvordan man kan plassere ledningene slik at det ikke blir for mye spagetti.
 ![](KoblingerFoto.jpg)
 
-### Koblingskjema
-
+### Dette er et litt mer teknisk koblingsskjema som viser akkurat det samme som tabellen øverst på siden.
 ![](KoblingerSkjema.png)
