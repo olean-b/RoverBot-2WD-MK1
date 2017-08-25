@@ -34,7 +34,18 @@ På enheten ser du nå en LED som vekselsvis er tent/slukket i nøyaktig 1 sekun
 ![](images/arduinoNanoTilkoblet.jpg)
 
 ## Programmere motor driver (PWM kontroller)
+Før vi kan programmere motorene må vi laste ned og installere en tilleggsfunksjon i mBlock.
+1.	Laste ned utvidelsen fra [denne siden.](/Software/Robbie_Robot/Robot/RoverBotMotorExtension.zip) Velg Download.
+2.	Start mBlock og velg __[Tilleggsfunksjoner]__ --> __[Håndtere tilleggsfunksjoner]__ fra menyen. I dialogen klikker du på Knappen nederst til høyre og velger filen du lastet ned i forrige steg. 
+
+Ps. Husk å velge filtype .zip i fildialogen.
+![](images/TilleggsfunksjonerRobbieRobot.jpg)
+Du skal nå finne tillegget "Robbie Robot" i listen.
+
+
+
+
 * Krever tilkoblet driver og motorer ++
 * Installere utvidelse
 * Beskrive pinner
-## [Klikk her og velg Download](/Software/Robbie_Robot/Robot/RoverBotMotorExtension.zip)
+
