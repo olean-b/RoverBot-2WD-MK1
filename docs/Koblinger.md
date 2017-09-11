@@ -22,7 +22,7 @@ Rød                       |  VIN       |
 
 
 ### Bilde nedenfor viser hvordan man kan plassere ledningene slik at det ikke blir for mye spagetti.
-![](KoblingerFoto.jpg)
+![](/design/WiringSketch/KoblingerFoto.jpg)
 
 ### Dette er et litt mer teknisk koblingsskjema som viser akkurat det samme som tabellen øverst på siden.
-![](KoblingerSkjema.png)
+![](/design/WiringSketch/KoblingerSkjema.png)

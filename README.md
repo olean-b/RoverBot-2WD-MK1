@@ -11,7 +11,7 @@ Ved å kombinere byggerglede, gratis programvare og rimelige komponenter har bar
 Prosjektet ble gjennomført ved Verket FabLab over 3 lørdager med 2 timers økter.
 
 
-## [Klikk her](/docs/Oppsummering.pdf) for å laste neden oppsummering av hva vi har gjort.
+## [Klikk her](/docs/Oppsummering.pdf) for å se en oppsummering av hva vi har gjort.
 
 ----------------
 

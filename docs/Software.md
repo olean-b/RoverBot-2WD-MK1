@@ -12,7 +12,7 @@ Før du kobler til enheten er det lurt å ta en titt på hvilke serieporter som 
 Koble USB kabel til Arduino og PC. Vent til Windows har installert nødvendige USB drivere. Hvis du nå går inn på __[Koble til]__ og velger __[Serieport]__, skal det dukke opp en ny COM- port her. Velg denne.
 
 Dersom det øverst i programmet står «Serieport Tilkoblet» betyr det at du er klar til å programmere Arduino enheten.
-![](images/mBlock_Tilkoblet.jpg)
+![](/software/images/mBlock_Tilkoblet.jpg)
 
 ## Mitt første Arduino program
 Nå skal vi forsøke å laste opp et enkelt program.
@@ -22,16 +22,16 @@ På enheten finnes det en liten LED som vi kan slå av og på – Denne kan vi k
 
 __Lag et skript tilsvarende dette__
 
-![](images/simpleBlink.jpg)
+![](/software/images/simpleBlink.jpg)
 
 For å overføre koden til Arduino, høyreklikk blokken «Arduinoprogram» og velg «last opp til Arduino». 
 Et nytt bilde vises nå på høyresiden. Dobbeltsjekk at du fremdeles er tilkoblet og trykk «Laste opp til Arduino».
-![](images/mBlockArduinoUpload.jpg)
+![](/software/images/mBlockArduinoUpload.jpg)
 
 Programmet er overført og starter automatisk når dialogboksen viser __"Opplasting fullført"__. 
 
 På enheten ser du nå en LED som vekselsvis er tent/slukket i nøyaktig 1 sekund.
-![](images/arduinoNanoTilkoblet.jpg)
+![](/software/images/arduinoNanoTilkoblet.jpg)
 
 ## Programmere motor driver (PWM kontroller)
 Før vi kan programmere motorene må vi laste ned og installere en tilleggsfunksjon i mBlock.
@@ -40,6 +40,6 @@ Før vi kan programmere motorene må vi laste ned og installere en tilleggsfunks
 
 _Ps. Husk å velge filtype .zip i fildialogen._
 
-![](images/TilleggsfunksjonRobbieRobot.jpg)
+![](/software/images/TilleggsfunksjonRobbieRobot.jpg)
 
 Du skal nå finne tillegget "Robbie Robot" i listen.
