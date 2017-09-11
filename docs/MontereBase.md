@@ -17,4 +17,4 @@ __Vent med å sette hjulene på motor drevet. Da blir det enklere å feste motor
 ![](images/Bygg4.jpg)
 
 
-## [Klikk her](/Koblinger.md) for å gå til neste steg hvor vi kobler elektronikken.
+## [Klikk her](/docs/Koblinger.md) for å gå til neste steg hvor vi kobler elektronikken.
