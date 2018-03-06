@@ -22,7 +22,7 @@ På enheten finnes det en liten LED som vi kan slå av og på – Denne kan vi k
 
 __Lag et skript tilsvarende dette__
 
-![](/software/images/simpleBlink.jpg)
+![](/Software/images/simpleBlink.jpg)
 
 For å overføre koden til Arduino, høyreklikk blokken «Arduinoprogram» og velg «last opp til Arduino». 
 Et nytt bilde vises nå på høyresiden. Dobbeltsjekk at du fremdeles er tilkoblet og trykk «Laste opp til Arduino».
