@@ -12,7 +12,7 @@ Før du kobler til enheten er det lurt å ta en titt på hvilke serieporter som 
 Koble USB kabel til Arduino og PC. Vent til Windows har installert nødvendige USB drivere. Hvis du nå går inn på __[Koble til]__ og velger __[Serieport]__, skal det dukke opp en ny COM- port her. Velg denne.
 
 Dersom det øverst i programmet står «Serieport Tilkoblet» betyr det at du er klar til å programmere Arduino enheten.
-![](/software/images/mBlock_Tilkoblet.jpg)
+![](/Software/images/mBlock_Tilkoblet.jpg)
 
 ## Mitt første Arduino program
 Nå skal vi forsøke å laste opp et enkelt program.
@@ -31,7 +31,7 @@ Et nytt bilde vises nå på høyresiden. Dobbeltsjekk at du fremdeles er tilkobl
 Programmet er overført og starter automatisk når dialogboksen viser __"Opplasting fullført"__. 
 
 På enheten ser du nå en LED som vekselsvis er tent/slukket i nøyaktig 1 sekund.
-![](/software/images/arduinoNanoTilkoblet.jpg)
+![](/Software/images/arduinoNanoTilkoblet.jpg)
 
 ## Programmere motor driver (PWM kontroller)
 Før vi kan programmere motorene må vi laste ned og installere en tilleggsfunksjon i mBlock.
